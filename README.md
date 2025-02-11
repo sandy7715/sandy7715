@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandy7715" alt="sandy7715" /></a> </p>
 
-- 🔭 I’m currently pursuing my degree **PresentationPilot**
+- 🔭 I’m currently pursuing my degree [Bsc IT](https://p/)
 
 - 🌱 I’m currently learning **react,nodejs**
 
-- 💬 Ask me about **sanjaysonar7715@gmail.com**
+- 👯 My Project [PresentationPilot](resentationpilot.onrender.com)
 
-- 📫 How to reach me **sanjaysonar7715@gmail.com**
+- 💬 Ask me about **sanjaysonar7715@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
